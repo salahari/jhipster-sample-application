@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "Mzc1N2FkODQxYmQzMzE1MmRmNjZkNjg3OWY3YjIyNzdmNGQzMDQwY2VhM2RkOWZlZGM3NTk0Y2VhNmRkM2M0OGRmMWQ4NzA2NmM0ZWZiZTUzZjMxZmNiYmFhYTkyMGQ5ZjAwYmQxZjQxOTQ3NGIzMmQ0OWVmYTJiMjk4NjA1NTc="
+  },
+  "git-provider": "GitHub",
+  "git-company": "salahari",
+  "repository-name": "jhipster-sample-application"
+}
